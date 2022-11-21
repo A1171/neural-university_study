@@ -1,0 +1,6 @@
+Решение уравнения с помощью генетического алгоритма.
+https://colab.research.google.com/drive/1s8ju86byXhhndEAU5KlgzAngbqwB5sH4?usp=sharing
+Подбор пароля с помощью генетического алгоритма.
+https://colab.research.google.com/drive/1Vlng9IKaVnTUzCxaADN_CjhE0CZ4Hcv5?usp=sharing
+Символьная генетика. Подбор формулы описывающий кусок графика акции
+https://colab.research.google.com/drive/1fcNPWNYUMys25ZwE0F01tGiuApNnnMg1?usp=sharing
